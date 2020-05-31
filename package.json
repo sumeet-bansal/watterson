@@ -1,0 +1,25 @@
+{
+  "name": "watterson",
+  "version": "1.0.0",
+  "description": "A robust search engine for Calvin and Hobbes.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeet-bansal/watterson.git"
+  },
+  "author": "Sumeet Bansal",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/sumeet-bansal/watterson/issues"
+  },
+  "homepage": "https://github.com/sumeet-bansal/watterson#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.7.1",
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^14.0.6",
+    "dot-env": "0.0.1"
+  }
+}

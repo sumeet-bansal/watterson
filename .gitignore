@@ -1,6 +1,10 @@
 # misc
 .DS_Store
+.env
 
 # Jupyter notebook
 .ipynb_checkpoints/
+
+# TypeScript
+node_modules/
 
